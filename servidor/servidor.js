@@ -46,5 +46,5 @@ io.on("connection", function (socket) {
     });
 });
 //
-app.use("/twine/", express.static("../cliente-twine"));
+app.use(express.static("../cliente"));
 server.listen(PORT, () => console.log(`Server listening on port ${PORT}!`));
