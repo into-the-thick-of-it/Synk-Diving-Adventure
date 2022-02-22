@@ -5,4 +5,4 @@ Projeto desenvolvido na 8ª fase do Integrado em telecomunicações do IFSC, Sã
 Nosso projeto é um jogo co-op, baseado em texto, com temática Cyberpunk. 
 Sugerimos que permita aúdio para uma melhor experiência, ou que jogue localmente com alguém.
 
-Espero que gostem, e boa leitura!
+Esperamos que gostem, e boa leitura!
